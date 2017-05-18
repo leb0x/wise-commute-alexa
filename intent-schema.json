@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "ArrivalInformation"
+    },
+    {
+      "slots": [
+        {
+          "name": "StopName",
+          "type": "TrimetStopNames"
+        }
+      ],
+      "intent": "GetStopName"
+    },
+    {
+      "slots": [
+        {
+          "name": "TrainName",
+          "type": "TrimetTrainNames"
+        }
+      ],
+      "intent": "GetTrainName"
+    }
+  ]
+}
