@@ -10,7 +10,7 @@
       "intent": "AMAZON.StopIntent"
     },
     {
-      "intent": "ArrivalInformation"
+      "intent": "CreateRequest"
     },
     {
       "slots": [
@@ -19,7 +19,7 @@
           "type": "TrimetStopNames"
         }
       ],
-      "intent": "GetStopName"
+      "intent": "GetTrainName"
     },
     {
       "slots": [
@@ -28,7 +28,7 @@
           "type": "TrimetTrainNames"
         }
       ],
-      "intent": "GetTrainName"
+      "intent": "ArrivalInformation"
     }
   ]
 }

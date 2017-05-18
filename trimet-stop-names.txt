@@ -1,0 +1,82 @@
+gateway
+clackamas
+fuller
+lents
+flavel
+holgate
+powell
+division
+main
+fair
+hillsboro
+tuality
+hawthorn
+central
+orenco
+quatama
+willow
+elmonica
+merlo
+creek
+/////////
+millikan
+btc
+beaverton transit center
+sunset
+goosehollow
+goose
+providence
+sw 6th
+expo
+delta
+vanport
+kenton
+denver
+lombard
+rosa
+rosa parks
+killingsworth
+prescott
+overlook
+albina
+hillsboro central
+3rd transit center
+tuality hospital
+//////////
+fair complex
+hillsboro airport
+hawthorn farm
+231st
+205th
+willow creek
+elmonica
+merlo
+beaverton creek
+millikan way
+portland airport
+mount hood
+cascades
+park rose
+sumner transit center
+clackamas town center
+
+lents town center
+
+milwaukie
+johnson creek
+clinton
+omsi
+waterfront
+lincoln
+gresham central transit center
+civic drive
+ruby
+east 197th
+rockwood
+188th
+181st
+172nd
+162nd
+148th
+122nd
+102nd
