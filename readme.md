@@ -7,12 +7,12 @@
 Wise Commute, allows users to get accurate arrival information for Trimet trains running in the Portland area. By simply telling Alexa your desired stop (ex: "gateway") and train name (ex: "Green line to Clackamas"), Wise Commute will give you accurate information about the next arrival matching your criteria.
 
 ### Example conversation..
-User: "Alexa, ask wise commute for arrival information"
-Alexa: "What Stop?"
-User: "Gateway"
-Alexa: "What Train?"
-User: "Red line to Airport"
-Alexa: "The next Red line to Airport will arrive at Gateway, in 14 minutes."
+* User: "Alexa, ask wise commute for arrival information"
+* Alexa: "What Stop?"
+* User: "Gateway"
+* Alexa: "What Train?"
+* User: "Red line to Airport"
+* Alexa: "The next Red line to Airport will arrive at Gateway, in 14 minutes."
 
 ## Requirements
 * An Amazon Echo
