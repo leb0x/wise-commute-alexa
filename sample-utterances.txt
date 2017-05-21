@@ -1,1 +1,3 @@
-GetStopName arrival information
+CreateRequest arrival information
+GetTrainName {StopName}
+ArrivalInformation {TrainName}
