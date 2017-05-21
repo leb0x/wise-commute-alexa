@@ -3,36 +3,23 @@ green line to psu
 green line to city center
 green line to rose quarter
 green to rose quarter
-green to clackamas
-green to psu
 green to city center
+green to clackamas
 orange line to milwaukie
 orange line to city center
 orange line to psu
 orange to milwaukie
 orange to city center
 orange to psu
-red line to rose quarter
 red line to airport
 red line to beaverton
-red line to gateway
-red  to rose quarter
 red to airport
 red to beaverton
-red to gateway
-blue line to rose quarter
-blue line to city center
-blue line to gresham
-blue line to gateway
-blue line to hillsborro
-blue to rose quarter
-blue to city center
-blue to gresham
-blue to gateway
-blue to hillsborro
-yellow line to psu
+blue line to Gresham
+blue line to hillsboro
+blue to Gresham
+blue to hillsboro
 yellow line to expo center
-yellow line to rose quarter
-yellow to psu
+yellow line to city center
+yellow to city center
 yellow to expo center
-yellow to rose quarter 

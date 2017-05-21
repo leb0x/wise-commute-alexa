@@ -1,4 +1,5 @@
 gateway
+99th
 clackamas
 fuller
 lents
@@ -7,76 +8,92 @@ holgate
 powell
 division
 main
-fair
+82nd
+60th
+hollywood
+42nd
+lloyd
+loyd
+11th
+7th
+convention
+rose quarter
+hatfield
 hillsboro
+3rd
 tuality
+8th
+washington
+12th
+fair
+hillsboro airport
 hawthorn
-central
 orenco
+231st
+central
 quatama
+205th
 willow
+185th
 elmonica
+170th
 merlo
-creek
-/////////
+158th
+beaverton creek
 millikan
-btc
+beaverton central
 beaverton transit center
 sunset
+washington park
 goosehollow
 goose
+jefferson
 providence
-sw 6th
-expo
-delta
-vanport
-kenton
-denver
-lombard
-rosa
-rosa parks
-killingsworth
-prescott
-overlook
-albina
-hillsboro central
-3rd transit center
-tuality hospital
-//////////
-fair complex
-hillsboro airport
-hawthorn farm
-231st
-205th
-willow creek
-elmonica
-merlo
-beaverton creek
-millikan way
-portland airport
+psu south
+5th and jackson
+6th and college
+psu urban
+5th and mill
+5th and jefferson
+city hall
+6th and montgomery
+6th and madison
+pioneer courthouse
+pioneer place
+6th and pine
+6th and davis
+union station
+5th and glisan
+6th and hoyt
+5th and oak
+5th and couch
+102nd
+122nd
+148th
+162nd
+172nd
+181st
+rockwood
+ruby
+197th
+civic
+gresham city
+gresham central
+cleveland
+airport
+portland international
 mount hood
 cascades
 park rose
-sumner transit center
-clackamas town center
-
-lents town center
-
+parkrose
+sumner
+south east park
 milwaukie
-johnson creek
+south east tacoma
+south east bybee
+17th and holgate
+rhine
 clinton
-omsi
-waterfront
+museum
+south waterfront
 lincoln
-gresham central transit center
-civic drive
-ruby
-east 197th
-rockwood
-188th
-181st
-172nd
-162nd
-148th
-122nd
-102nd
