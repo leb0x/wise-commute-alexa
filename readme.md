@@ -1,6 +1,6 @@
 # Wise Commute
 
-#### By: Ryan Jones
+#### By: Josh Linton, Ryan Jones, and Colin.
 #### Version: 05/20/2017
 
 ## Overview
